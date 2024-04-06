@@ -1,4 +1,4 @@
-# CashDash-Your-Money-s-Journey 💸🤑
+# CashDash-Your-Money's-Journey 💸🤑
 ## Expense Tracker: Where Money Goes 'Poof'! 🤔
 
 Keep track of income and expenses. Add and remove items and save to local storage
